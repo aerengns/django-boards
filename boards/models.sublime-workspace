@@ -1,0 +1,323 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"i"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"M",
+				"Maybe"
+			],
+			[
+				"S",
+				"SpaceCraft"
+			],
+			[
+				"loc",
+				"location"
+			],
+			[
+				"ene",
+				"energy"
+			],
+			[
+				"ca",
+				"capacity"
+			],
+			[
+				"ener",
+				"energise"
+			],
+			[
+				"r",
+				"Robot"
+			],
+			[
+				"s",
+				"spaceStation"
+			],
+			[
+				"spa",
+				"spaceCraft"
+			],
+			[
+				"sp",
+				"spaceCraft"
+			],
+			[
+				"Spa",
+				"spaceStationFinderHelper"
+			],
+			[
+				"space",
+				"SpaceCraft"
+			],
+			[
+				"I",
+				"Int"
+			],
+			[
+				"grid",
+				"grid"
+			],
+			[
+				"coor",
+				"coordinatesOfPits"
+			],
+			[
+				"Robo",
+				"Robot"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Install Package Control"
+			],
+			[
+				"buil",
+				"Build With: C Single File"
+			],
+			[
+				"haske",
+				"Set Syntax: Haskell"
+			],
+			[
+				"bui",
+				"Build With: Haskell"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ereng/Desktop/test.py",
+		"/C/Users/ereng/Desktop/To Do.txt",
+		"/C/Users/ereng/Desktop/Yeni Metin Belgesi.txt",
+		"/C/Users/ereng/Desktop/lab_exam_4.py",
+		"/C/Users/ereng/Desktop/Zort/serhat",
+		"/C/Users/ereng/Desktop/main.c",
+		"/C/Users/ereng/Desktop/inp.txt",
+		"/C/Users/ereng/Downloads/LabExam2andSolution.txt",
+		"/C/Users/ereng/Downloads/kitap o_nerileri listesi (1) (2)",
+		"/C/Users/ereng/Desktop/InsertionSort.cpp",
+		"/C/Users/ereng/Desktop/piton.py",
+		"/C/Users/ereng/Desktop/Yeni Metin Belgesi (2).txt",
+		"/C/Users/ereng/Downloads/Audio_Realtek_CFL_W10_64_V6018519/Audio_Realtek_CFL_W10_64_V6018519/How_to_Install.txt",
+		"/C/Users/ereng/Documents/Mount and Blade II Bannerlord/Configs/engine_config.txt",
+		"/C/Users/ereng/Desktop/789/TermProject/EncounteredProblems&InterestingObservations/Problems.txt",
+		"/C/Users/ereng/Desktop/SPOILER_message.txt",
+		"/C/Users/ereng/Documents/Mount and Blade II Bannerlord/Configs/BannerlordConfig.txt",
+		"/C/Users/ereng/Desktop/2020-2021 Spring/222/Sample/SampleSolution.m",
+		"/C/Users/ereng/Desktop/789/TermProject/meshes/cube.off",
+		"/C/Users/ereng/AppData/Local/Temp/Temp1_e2448389_hw4.zip/e2448389_hw4.m",
+		"/C/Users/ereng/Desktop/e2448389_hw4.m",
+		"/C/Users/ereng/AppData/Local/Temp/Temp1_pe8_test_cases.zip/max_age_of_hobby_precise.txt",
+		"/C/Users/ereng/Desktop/Takayama2014Orientation-supplemental/supplemental/py/measure_backfacingness.py",
+		"/C/Users/ereng/Downloads/pdfTestbench_part2_18-06-21 (1).v",
+		"/C/Users/ereng/Downloads/testbench_grader2.v",
+		"/C/Users/ereng/Desktop/2020-2021 Spring/232/Lab4/lab4_part2/lab4_part2/lab4_2.v",
+		"/C/Users/ereng/Downloads/testbench_grader1.v",
+		"/C/Users/ereng/Downloads/testbench_random.v",
+		"/C/Users/ereng/Downloads/pdfTestbench_part2 (1).v",
+		"/C/Users/ereng/Downloads/pdfTestbench_part2_18-06-21.v",
+		"/C/Users/ereng/Desktop/2020-2021 Spring/222/HW3/SampleSolution.m",
+		"/C/Users/ereng/Desktop/2020-2021 Spring/232/Lab4/lab4_part2/lab4_part2/testbench.v",
+		"/C/Users/ereng/Desktop/2020-2021 Spring/232/Lab4/lab4_part1/lab4_part1/lab4_1.v",
+		"/C/Users/ereng/Downloads/pdfTestbench_part2.v",
+		"/C/Users/ereng/Desktop/lab3_2.v",
+		"/C/Users/ereng/Desktop/2020-2021 Spring/242/PE8/main.pl",
+		"/C/Users/ereng/Downloads/testbench_part1.v",
+		"/C/Users/ereng/Desktop/2020-2021 Spring/232/Lab4/lab4_part1/lab4_part1/testbench.v",
+		"/C/Users/ereng/Desktop/lab3_1.v",
+		"/C/Users/ereng/Desktop/lab3_part2/lab3_part2/testbench_queue.v",
+		"/C/Users/ereng/Desktop/lab3_part2/lab3_part2/lab3_2.v",
+		"/C/Users/ereng/Downloads/testbench_numerator.v",
+		"/C/Users/ereng/Desktop/RecDiameters.txt",
+		"/C/Users/ereng/Desktop/HW_OG_1_Hint.py",
+		"/C/Users/ereng/Desktop/lab3_part2/lab3_part2/testbench_numerator.v",
+		"/C/Users/ereng/AppData/Local/Temp/Temp1_lab3_part2.zip/lab3_part2/testbench_numerator.v",
+		"/C/Users/ereng/AppData/Local/Temp/Temp1_lab3_part2.zip/lab3_part2/testbench_queue.v",
+		"/C/Users/ereng/AppData/Local/Temp/Temp1_lab3_part2.zip/lab3_part2/lab3_2.v",
+		"/C/Users/ereng/AppData/Local/Temp/Temp2_lab3_part1.zip/lab3_part1/lab3_1.v",
+		"/C/Users/ereng/AppData/Local/Temp/Temp2_lab3_part1.zip/lab3_part1/testbench_ic232.v",
+		"/C/Users/ereng/AppData/Local/Temp/Temp2_lab3_part1.zip/lab3_part1/testbench_kb.v",
+		"/C/Users/ereng/Downloads/testbench_ic232.v",
+		"/C/Users/ereng/Desktop/EncounteredProblems&InterestingObservations/Problems.txt",
+		"/C/Users/ereng/Desktop/789/assignment1/789pa1/EncounteredProblems&InterestingObservations/Problems.txt",
+		"/C/Users/ereng/Desktop/Problems.txt",
+		"/C/Users/ereng/Downloads/Root3Subdivision.cpp",
+		"/C/Users/ereng/Desktop/PE4/PE4.hs",
+		"/C/Users/ereng/Desktop/789/assignment2/789pa2/meshes/bunny.off",
+		"/C/Users/ereng/Downloads/Heroes of Might and Magic III (Complete Edition) + Patch [GOG]/readme.txt",
+		"/C/Users/ereng/Downloads/treeexamples.hs",
+		"/C/Users/ereng/Desktop/PE4/pe4_sample_io/outputs/toDigits_16.out",
+		"/C/Users/ereng/Desktop/PE4/pe4_sample_io/inputs/toDigits_16.in",
+		"/C/Users/ereng/Desktop/PE4/pe4_sample_io/inputs/toDigits_15.in",
+		"/C/Users/ereng/Desktop/pe3.hs",
+		"/C/Users/ereng/Desktop/test.c",
+		"/C/Users/ereng/Desktop/t.hs",
+		"/C/Users/ereng/Desktop/t.txt"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "models.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
